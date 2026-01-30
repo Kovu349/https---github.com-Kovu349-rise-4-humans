@@ -95,8 +95,6 @@ nav {
     color: var(--blue);
     font-weight: 500;
     transition: color 0.3s ease;
-    border: lightgrey 3px solid;
-    border-radius: 20px;
     padding: 0.2rem 0.2rem;
 }
 
