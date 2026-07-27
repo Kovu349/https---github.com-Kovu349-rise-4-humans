@@ -2,7 +2,7 @@
 
 A youth-led nonprofit organization advancing health equity through education, technology, and community service.
 
-Live Website: https://rise4humans.com
+Live Website: [https://rise4humans.com](https://rise4humans.vercel.app/)
 
 
 # Technologies Used
