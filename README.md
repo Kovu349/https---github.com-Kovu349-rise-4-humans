@@ -7,10 +7,10 @@ Live Website: https://rise4humans.com
 
 # Technologies Used
 
--HTML
--CSS
--JavaScript
--Vercel for deployment and hosting
+- HTML
+- CSS
+- JavaScript
+- Vercel for deployment and hosting
 
 # About
 
