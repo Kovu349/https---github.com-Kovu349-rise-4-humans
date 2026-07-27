@@ -9,7 +9,6 @@ Live Website: [https://rise4humans.com](https://rise4humans.vercel.app/)
 
 - HTML
 - CSS
-- JavaScript
 - Vercel for deployment and hosting
 
 # About
